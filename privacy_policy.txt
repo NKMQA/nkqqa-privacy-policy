@@ -1,0 +1,23 @@
+**Privacy Policy for NKMQA Bug Capture**
+
+Effective Date: [26/02/2026]
+
+NKMQA Bug Capture is a Chrome extension designed to help QA testers capture bug notes and screenshots. 
+
+**Data Collection and Use:**
+- This extension stores all bug reports (notes, page URLs, and screenshots) locally on your device.
+- No data is sent to any server, company, or third-party service.
+
+**Third-Party Access:**
+- No third-party services or websites have access to your bug reports.
+- All data remains only on your local machine.
+
+**Security:**
+- All bug reports are stored securely in Chrome's local storage.
+- Screenshots captured are only saved on your device and downloaded if you choose to save them.
+
+**User Control:**
+- Users can delete individual bug reports or clear all data at any time using the extension’s buttons.
+
+**Contact:**
+If you have questions about this Privacy Policy, contact: [kmnagaraj95@gmail.com]
